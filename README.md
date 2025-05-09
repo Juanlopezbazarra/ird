@@ -1,0 +1,2 @@
+# ird
+codigo wikipedia
